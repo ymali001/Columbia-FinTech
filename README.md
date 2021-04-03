@@ -1,6 +1,6 @@
 <p align="center"><img width=100% src="columbia_engineering.png"></p>
 
-<p align="center" style="color:DodgerBlue; font-family:cambria; font-variant: large; font-size:70pt">FinTech
+<p align="center" style="color:DodgerBlue; font-family:cambria; font-variant: large; font-size:100pt">FinTech
 </p>
 
 ## **Overview**
