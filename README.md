@@ -28,5 +28,5 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 
 ## Projects
 1. [US RealEstate Post COVID-19](https://github.com/valleriia/Project1-US-Real-Estate-Analysis)
-2. []()
+2. [Trading using Machine Learning Algorithms](https://github.com/HyuntaeKim0813/Project_2)
 3. []()
