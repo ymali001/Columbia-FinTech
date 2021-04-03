@@ -2,7 +2,7 @@
 
 This repo contains all Assignments and Projects from the Columbia Engineereing Fintech Program
 
-<p align="center"><img width=20% src="https://images.app.goo.gl/Cdy4DrSNAhwapy3g8"></p>
+https://images.app.goo.gl/Cdy4DrSNAhwapy3g8
 
 <p align="center" style="color:DodgerBlue; font-family:cambria; font-variant: normal; font-size:30pt">FINTECH PROGRAM
 </p>
