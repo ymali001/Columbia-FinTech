@@ -32,4 +32,5 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 3. []()
 
 ## Reading
-1. [Intro to Python]
+1. [Intro to Python](https://drive.google.com/file/d/1ySX6Nh4yChpMdF8A5cJbotBthvGLuQGF/view?usp=sharing)
+2. [Emotional Intelligence](https://drive.google.com/file/d/1oaqTo0lT80hEs5YaoTetQEbdtAMxsHMq/view?usp=sharing)
