@@ -22,7 +22,7 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 11. [Deep Learning](https://github.com/ymali001/DeepLearning) 
 12. [BlockChain](https://github.com/ymali001/BlockChain)
 13. [Blockchain Using Python](https://github.com/ymali001/BlockChain-Python)
-14. [Smart Contracts Solidity](https://gist.github.com/ymali001/5dbee9b381de9692ada9fec7d4d51bea)
+14. [Smart Contracts Solidity](https://gist.github.com/ymali001/e16ae6a7e6671c8003510893c3b7931a)
 15. [Advanced Solidity](https://gist.github.com/ymali001/06ce248f26a737acac56e38bee53dfe4)
 16. [Decentralized Apps]()
 
