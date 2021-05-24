@@ -14,7 +14,7 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 3. [Pandas](https://github.com/ymali001/A-Whale-Off-the-Port-folio)
 4. [APIs](https://github.com/ymali001/API)
 5. [Data Visualization](https://github.com/ymali001/PyViz)
-6. [SQL]()
+6. [SQL](https://github.com/manchester9/fintech/tree/master/07-sql)
 7. [Time Series Analysis](https://github.com/ymali001/Time_Series)
 8. [Machine Learning](https://github.com/ymali001/Machine_Learning_Classification) 
 9. [Natural Language Processing](https://github.com/ymali001/Natural_Language_Processing)
@@ -24,7 +24,8 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 13. [Blockchain Using Python](https://github.com/ymali001/BlockChain-Python)
 14. [Smart Contracts Solidity](https://gist.github.com/ymali001/e16ae6a7e6671c8003510893c3b7931a)
 15. [Advanced Solidity](https://gist.github.com/ymali001/3975022ed3c6e9315f363e679fc8ae96)
-16. [Decentralized Apps]()
+16. [Decentralized Apps](https://github.com/ymali001/Decentralized-Apps)
+16.1[Decentralized Apps2](https://github.com/manchester9/fintech/tree/master/18-decentralized_apps)
 
 ## Projects
 1. [US RealEstate Post COVID-19](https://github.com/valleriia/Project1-US-Real-Estate-Analysis)
