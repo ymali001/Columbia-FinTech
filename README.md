@@ -24,13 +24,13 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 13. [Blockchain Using Python](https://github.com/ymali001/BlockChain-Python)
 14. [Smart Contracts Solidity](https://gist.github.com/ymali001/e16ae6a7e6671c8003510893c3b7931a)
 15. [Advanced Solidity](https://gist.github.com/ymali001/3975022ed3c6e9315f363e679fc8ae96)
-16. [Decentralized Apps](https://github.com/ymali001/Decentralized-Apps)
-16.1[Decentralized Apps2](https://github.com/manchester9/fintech/tree/master/18-decentralized_apps)
+16. [Decentralized Apps2](https://github.com/manchester9/fintech/tree/master/18-decentralized_apps)
+[Decentralized Apps (Under Construction)](https://github.com/ymali001/Decentralized-Apps)
 
 ## Projects
 1. [US RealEstate Post COVID-19](https://github.com/valleriia/Project1-US-Real-Estate-Analysis)
 2. [Algorithmic Trading using Machine Learning](https://github.com/HyuntaeKim0813/Project_2)
-3. []()
+3. [Virgo-DeFi](https://github.com/Virgo-Defi/Code)
 
 ## Reading
 1. [Intro to Python](https://drive.google.com/file/d/1ySX6Nh4yChpMdF8A5cJbotBthvGLuQGF/view?usp=sharing)
